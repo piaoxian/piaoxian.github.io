@@ -395,7 +395,7 @@ body >header {
   width: 100%;
   -webkit-box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
   box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
-  background: #309;
+  background: #bfbf60;
   color: #fff;
   padding: 1em 0 0.8em;
 }
@@ -549,7 +549,7 @@ header nav ul li a {
   }
 }
 header nav ul li a:hover {
-  background: #240079;
+  background: #9e9e39;
   color: #f90;
 }
 .shownav {
@@ -639,7 +639,7 @@ header nav ul li a:hover {
   }
 }
 #main section.post a:hover {
-  border-left: 0.5em solid #309;
+  border-left: 0.5em solid #bfbf60;
 }
 #main section.post a h1 {
   color: #f90;
@@ -672,7 +672,7 @@ header nav ul li a:hover {
 }
 #page-nav a:hover {
   background: #ffcc80;
-  color: #309;
+  color: #bfbf60;
 }
 #page-nav .prev {
   float: left;
@@ -684,7 +684,7 @@ header nav ul li a:hover {
   transition: border-left 0.5s;
 }
 #page-nav .prev:hover {
-  border-left: 0.5em solid #309;
+  border-left: 0.5em solid #bfbf60;
 }
 #page-nav .next {
   float: right;
@@ -759,7 +759,7 @@ header nav ul li a:hover {
   transition: color 0.5s;
 }
 .archive-title a:hover {
-  color: #309;
+  color: #bfbf60;
   -webkit-transition: color 0.5s;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
@@ -767,7 +767,7 @@ header nav ul li a:hover {
   transition: color 0.5s;
 }
 .current {
-  color: #309 !important;
+  color: #bfbf60 !important;
 }
 @media only screen and (min-width: 768px) {
   .archive-part {
@@ -816,7 +816,7 @@ header nav ul li a:hover {
 }
 .post a:hover,
 .page a:hover {
-  color: #309;
+  color: #bfbf60;
 }
 @media only screen and (min-width: 768px) {
   article header.article-info {
@@ -831,7 +831,7 @@ article header.article-info >h1 {
   word-break: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  border-left: 5px solid #309;
+  border-left: 5px solid #bfbf60;
 }
 @media only screen and (min-width: 1024px) {
   article header.article-info >h1 {
@@ -931,7 +931,7 @@ article .article-content abbr {
   border-bottom: 1px dotted;
 }
 article .article-content blockquote {
-  border-left: 0.2em solid #309;
+  border-left: 0.2em solid #bfbf60;
   margin: 0.65em 0 0.65em 4%;
   padding-left: 1%;
   line-height: 1.5;
@@ -1456,7 +1456,7 @@ section.comment {
   transition: color 1s ease-out;
 }
 #toc.toc-aside a:hover {
-  color: #309;
+  color: #bfbf60;
   -webkit-transition: color 0.3s ease-out;
   -moz-transition: color 0.3s ease-out;
   -o-transition: color 0.3s ease-out;
@@ -1464,7 +1464,7 @@ section.comment {
   transition: color 0.3s ease-out;
 }
 .active {
-  color: #309 !important;
+  color: #bfbf60 !important;
 }
 .openaside {
   display: none;
@@ -1478,7 +1478,7 @@ section.comment {
   border: 1px solid #fff;
   -webkit-border-radius: 5px;
   border-radius: 5px;
-  background: #309;
+  background: #bfbf60;
   padding: 0.2em 0.55em;
 }
 .openaside a::before {
@@ -1491,7 +1491,7 @@ section.comment {
   display: none;
 }
 .closeaside a {
-  color: #309;
+  color: #bfbf60;
 }
 .closeaside a:hover {
   color: #f90;
@@ -1533,7 +1533,7 @@ section.comment {
   color: #f90;
 }
 .asidetitle a:hover {
-  color: #309;
+  color: #bfbf60;
   -webkit-transition: color 0.5s;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
@@ -1562,7 +1562,7 @@ section.comment {
   padding: 0.5em 5%;
 }
 .categorieslist li a:hover {
-  color: #309;
+  color: #bfbf60;
 }
 .tagslist {
   margin: 1em 0 0;
@@ -1594,11 +1594,11 @@ section.comment {
   background: #ffdba6;
 }
 .tagslist ul li a:hover {
-  color: #309;
+  color: #bfbf60;
   background: #ffe6c0;
 }
 .rsspart {
-  background: #309;
+  background: #bfbf60;
   width: 100%;
 }
 @media only screen and (min-width: 768px) {
@@ -1622,7 +1622,7 @@ section.comment {
   text-align: center;
 }
 .rsspart a:hover {
-  color: #309;
+  color: #bfbf60;
   background: #ffffc0;
 }
 .rsspart a::before {
@@ -1654,7 +1654,7 @@ section.comment {
   padding: 0.5em;
 }
 .archiveslist li a:hover {
-  color: #309;
+  color: #bfbf60;
   -webkit-transition: color 0.25s;
   -moz-transition: color 0.25s;
   -o-transition: color 0.25s;
@@ -1702,7 +1702,7 @@ section.comment {
   float: left;
 }
 .tagcloudlist .tagcloudlist a:hover {
-  color: #309;
+  color: #bfbf60;
   -webkit-transition: color 0.25s;
   -moz-transition: color 0.25s;
   -o-transition: color 0.25s;
@@ -1736,7 +1736,7 @@ section.comment {
   padding: 0 3%;
 }
 .linkslist ul a:hover {
-  color: #309;
+  color: #bfbf60;
   -webkit-transition: color 0.25s;
   -moz-transition: color 0.25s;
   -o-transition: color 0.25s;
@@ -1745,7 +1745,7 @@ section.comment {
 }
 footer {
   margin-top: 1em;
-  background: #fc0;
+  background: #bf9960;
   padding: 0 2% 0.5em;
 }
 #footer {
@@ -2003,7 +2003,7 @@ footer {
   font-weight: normal;
 }
 .article-content .gist .gist-file .gist-meta a:hover {
-  color: #309;
+  color: #bfbf60;
 }
 pre .comment {
   color: #969896;
@@ -2075,7 +2075,7 @@ pre .xml .cdata {
   color: #f90 !important;
 }
 .ds-highlight:hover {
-  color: #309 !important;
+  color: #bfbf60 !important;
 }
 .ds-avatar {
   background: #ffffc0 !important;
